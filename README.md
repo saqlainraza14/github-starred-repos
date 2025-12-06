@@ -7,15 +7,15 @@ components, and mobile-style UI.
 
 ## 🚀 Features
 
-- Fetch trending GitHub repositories using GitHub Search API\
-- Infinite scroll\
-- Sticky header\
-- Mobile navigation bottom tabs\
-- Responsive and clean UI\
+- Fetch trending GitHub repositories using GitHub Search API
+- Infinite scroll
+- Sticky header
+- Mobile navigation bottom tabs
+- Responsive and clean UI
 - Displays:
-  - Repository name\
-  - Description\
-  - Stars count\
+  - Repository name
+  - Description
+  - Stars count
   - Owner username + avatar
 
 ## 📁 Project Structure
@@ -23,12 +23,12 @@ components, and mobile-style UI.
     src/
     ├── App.jsx
     ├── App.css
-    └──services/
-    |  ├── githubService.js
-    └── components/
-        ├── RepoList.jsx
-        ├── RepoItem.jsx
-        └── RepoItem.css
+    ├── services/
+    |     ├── githubService.js
+    ├── components/
+          ├── RepoList.jsx
+          ├── RepoItem.jsx
+          └── RepoItem.css
 
 ## 📦 Installation
 
@@ -58,7 +58,7 @@ npm run build
 
 Below is a sample output similar to the final UI (mobile-style layout):
 
-[alt text](image.png)
+![alt text](image.png)
 
 ## 🛠 Tech Stack
 

@@ -26,8 +26,9 @@ components, and mobile-style UI.
 
     src/
     ├── App.jsx
-    ├── App.js
     ├── App.css
+    └──services/
+    |  ├── githubService.js
     └── components/
         ├── RepoList.jsx
         ├── RepoItem.jsx

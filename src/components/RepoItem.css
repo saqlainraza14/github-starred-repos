@@ -1,0 +1,47 @@
+.repo-card {
+  padding: 20px 40px 20px 40px;
+  border-bottom: 1px solid #ddd;
+  background: #fff;
+}
+
+.repo-name {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 0 6px 0;
+}
+
+.repo-desc {
+  margin: 0 0 12px 0;
+  color: #555;
+  font-size: 14px;
+}
+
+.repo-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.repo-owner {
+  display: flex;
+  align-items: center;
+}
+
+.owner-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  margin-right: 8px;
+  background: #e0e0e0;
+}
+
+.owner-name {
+  font-size: 14px;
+  color: #333;
+}
+
+.repo-stars {
+  font-size: 15px;
+  color: #333;
+  font-weight: 500;
+}

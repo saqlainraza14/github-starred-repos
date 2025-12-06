@@ -5,8 +5,6 @@ starred GitHub repositories created in the last 10 days**.\
 This project demonstrates API integration, infinite scrolling, reusable
 components, and mobile-style UI.
 
----
-
 ## 🚀 Features
 
 - Fetch trending GitHub repositories using GitHub Search API\
@@ -20,8 +18,6 @@ components, and mobile-style UI.
   - Stars count\
   - Owner username + avatar
 
----
-
 ## 📁 Project Structure
 
     src/
@@ -34,8 +30,6 @@ components, and mobile-style UI.
         ├── RepoItem.jsx
         └── RepoItem.css
 
----
-
 ## 📦 Installation
 
 ```sh
@@ -43,8 +37,6 @@ git clone https://github.com/saqlainraza14/github-starred-repos.git
 cd github-starred-repos
 npm install
 ```
-
----
 
 ## ▶️ Run the project
 
@@ -56,23 +48,17 @@ Your app will run at:
 
     http://localhost:3000
 
----
-
 ## 🏗️ Build for production
 
 ```sh
 npm run build
 ```
 
----
-
 ## 📷 Final Output Preview
 
 Below is a sample output similar to the final UI (mobile-style layout):
 
 ![Final UI](![alt text](image.png))
-
----
 
 ## 🛠 Tech Stack
 
@@ -81,8 +67,6 @@ Below is a sample output similar to the final UI (mobile-style layout):
 - GitHub REST API
 - Modern CSS & Flexbox
 - Create React App (CRA)
-
----
 
 ## 🙌 Author
 

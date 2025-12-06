@@ -58,7 +58,7 @@ npm run build
 
 Below is a sample output similar to the final UI (mobile-style layout):
 
-![Final UI](![alt text](image.png))
+!(![alt text](image.png)
 
 ## 🛠 Tech Stack
 
